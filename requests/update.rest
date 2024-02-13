@@ -1,0 +1,9 @@
+PUT http://localhost:3000/userList/Samagra
+Content-Type: text/html
+
+{
+    "id": "Sam",
+    "fullname": "enter full name",
+    "email":"enter email",
+    "password":"New Password"
+}
